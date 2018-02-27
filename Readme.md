@@ -18,3 +18,14 @@ fx updates.
 
 Once you've started the development server, navigate to http://localhost:8011
 to read the task description and get started.
+
+
+==============================================
+
+Code is implemented in traditional javascript.
+
+Index.js=> table.js
+
+We can implement same code uisng es6 also.
+
+
