@@ -24,8 +24,8 @@ to read the task description and get started.
 
 Code is implemented in traditional javascript.
 
-Index.js=> table.js
+Flow= > site/Index.js=> table.js
 
-We can implement same code uisng es6 also.
+
 
 
